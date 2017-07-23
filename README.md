@@ -1,4 +1,4 @@
-## Welcome to InstaFashion 
+## Welcome to InstaFashion Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/Uwara/InstaFashion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
