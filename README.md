@@ -15,26 +15,26 @@ Instagram Users Basic Informations, medias, followers, comments and likes inform
 
 When you use InstaFashion, we may receive information ("Log Data") such as your IP address, device information , the time and date of using the service, the time spent to execute the Service. This information help us to improve our Service in term of performance improvement.
 
-## Communications
+### Communications
 
 While using our service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
 
-## Security
+### Security
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-## Information Sharing and Disclosure
+### Information Sharing and Disclosure
 We do not disclose instagram users personal information and data except in the limited circumstances described here.
 Non-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, 
-## Instagram Information:
+### Instagram Information:
 We may share or disclose the public users information with other researcher in the KTH or other research related purpose.
 
-## Users Information: 
+### Users Information: 
 We may share or disclose the Service user’s personal information within the KTH university.
 
 
-## Changes To This Privacy Policy
+### Changes To This Privacy Policy
 
 This Privacy Policy is effective as of 19th June, 2017  and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
@@ -43,7 +43,7 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 If we make any material changes to this Privacy Policy, we will update this website.
 
 
-## Contact Us
+### Contact Us
 
 If you have any questions about this Privacy Policy, please contact us on ummul@kth.se and shatha@kth.se. 
 
