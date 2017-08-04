@@ -2,7 +2,7 @@
 
 Last updated:19th June,2017
 
-InstaFashion operates as an server side service and provides media and basic informations dataset of fashion conscious public users for research purpose.This public content later analysis by the researcher at KTH or any other researcher who requested the dataset for reserch purpose. By using the server side service, you agree to the collection and use of information in accordance with this policy.
+InstaFashion operates as an server side service and provides media and basic informations dataset of fashion conscious public users for research purpose.This public content later analysis by the researcher at KTH or any other researcher who requested the dataset for research purpose. By using the server side service, you agree to the collection and use of information in accordance with this policy.
 
 This page https://uwara.github.io/InstaFashion/ informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Instagram.
 
