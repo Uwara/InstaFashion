@@ -10,7 +10,7 @@ This page https://uwara.github.io/InstaFashion/ informs you of our policies rega
 
 We collect and use fashionist public profiles information below to provide our Service and to improve our Services from time to time.By improving and collecting data time to time it provides the up to date dataset from the public profiles.
 
-## Instagram Users Basic Informations, medias, followers, comments and likes information: 
+### Instagram Users Basic Informations, medias, followers, comments and likes information: 
 Our service primarily provides a dataset of fashion conscious public profiles. The Service thus store the selected public users basic information and shared media. Along with the media the Service stores all the comments, likes and followers list. It also stores the location information of each of the media.
 
 ### Log Data
