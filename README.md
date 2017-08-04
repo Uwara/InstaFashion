@@ -50,7 +50,7 @@ If we make any material changes to this Privacy Policy, we will update this webs
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us on ummul@kth.se and shatha@kth.se. 
+If you have any questions about this Privacy Policy, please contact us on  shatha@kth.se and ummul@kth.se. 
 
 
 
